@@ -257,7 +257,3 @@ Payment API must maintain 99.9% uptime.
 System should support 2,000 concurrent payment transactions.
 
 This requirements document guides backend development, testing, and integration with external services.
-
-
-
-Would you like me to also create a requirements-traceability matrix (RTM) mapping these requirements to your earlier user stories? That way, each story is directly linked to technical requirements.
