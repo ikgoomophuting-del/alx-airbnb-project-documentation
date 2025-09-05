@@ -58,6 +58,7 @@ Login and registration requests must complete within 200 ms under normal load.
 
 System must support 1,000 concurrent login requests.
 
+---
 
 2. Property Management
 Functional Requirements
@@ -123,6 +124,7 @@ Search queries must return results within 500 ms.
 
 System should support at least 50,000 property listings.
 
+---
 
 3. Booking System
 Functional Requirements
@@ -184,6 +186,7 @@ Booking request validation must complete in <300 ms.
 
 System should handle 5,000 concurrent booking requests.
 
+---
 
 4. Payment Processing
 
